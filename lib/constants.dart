@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 
+const String kChat = 'CHAT_SCREEN';
+const String kRegistration = 'REGISTRATION_SCREEN';
+const String kWelcome = 'WELCOME_SCREEN';
+const String kLogin = 'LOGIN_SCREEN';
+
 const kSendButtonTextStyle = TextStyle(
   color: Colors.lightBlueAccent,
   fontWeight: FontWeight.bold,
